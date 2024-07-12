@@ -1,1 +1,1 @@
-MERN project
+Weather App
